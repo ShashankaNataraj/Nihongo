@@ -1,2 +1,3 @@
 # Nihongo
 
+わたしも = me neither
