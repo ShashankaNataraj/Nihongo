@@ -1,6 +1,9 @@
 # Nihongo
 
 わたしも = me neither
+
 うまい= delicious
+
 カんぱリ= cheers
-どうも=hi; thanks
+
+どうも=hi; てゃんｋｓ
